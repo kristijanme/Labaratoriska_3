@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259296482301",
+    "project_id": "lab3mis-6bb42",
+    "storage_bucket": "lab3mis-6bb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259296482301:android:f497ffc7960adc2bc43f94",
+        "android_client_info": {
+          "package_name": "com.ispiti.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FiscPnPfpD3ZXEJKFUgfoo-IC-NGh6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
